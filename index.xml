@@ -6,10 +6,21 @@
     <description>Recent content on MBeliou</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 05 Dec 2018 16:36:24 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 14 Jan 2019 15:59:47 +0100</lastBuildDate>
     
 	<atom:link href="https://MBeliou.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Cryptocurrency Mining - Part 1</title>
+      <link>https://MBeliou.github.io/posts/cryptocurrency-mining/</link>
+      <pubDate>Mon, 14 Jan 2019 15:59:47 +0100</pubDate>
+      
+      <guid>https://MBeliou.github.io/posts/cryptocurrency-mining/</guid>
+      <description>I&amp;rsquo;ve come to realize over the last year that people get quite curious about cryptocurrency mining and have had several people coming to me ask about how it works and if running a mining operation is feasible.
+In what will most likely be a series of post, I&amp;rsquo;m going to explain what mining actually is and how you can take part in it.
+What is mining? Every cryptocurrency needs a way to assert the legitimacy of the transactions occurring through its network.</description>
+    </item>
     
     <item>
       <title>Understanding Bitcoin Options</title>
