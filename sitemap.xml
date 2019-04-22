@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://MBeliou.github.io/posts/ionic-vue-in-5-minutes/</loc>
+    <lastmod>2019-04-22T14:07:09+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://MBeliou.github.io/posts/why-i-chose-vuejs-projects/</loc>
     <lastmod>2019-01-22T19:02:18+01:00</lastmod>
   </url>
@@ -24,13 +29,13 @@
   
   <url>
     <loc>https://MBeliou.github.io/</loc>
-    <lastmod>2019-01-22T19:02:18+01:00</lastmod>
+    <lastmod>2019-04-22T14:07:09+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://MBeliou.github.io/posts/</loc>
-    <lastmod>2019-01-22T19:02:18+01:00</lastmod>
+    <lastmod>2019-04-22T14:07:09+02:00</lastmod>
     <priority>0</priority>
   </url>
   

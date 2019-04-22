@@ -6,10 +6,21 @@
     <description>Recent content on MBeliou</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 22 Jan 2019 19:02:18 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 22 Apr 2019 14:07:09 +0200</lastBuildDate>
     
 	<atom:link href="https://MBeliou.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Ionic Vue in 5 Minutes</title>
+      <link>https://MBeliou.github.io/posts/ionic-vue-in-5-minutes/</link>
+      <pubDate>Mon, 22 Apr 2019 14:07:09 +0200</pubDate>
+      
+      <guid>https://MBeliou.github.io/posts/ionic-vue-in-5-minutes/</guid>
+      <description>Since my article on VueJs, curiosity has brought me to look for a way to develop a mobile application with it.
+After spending some time googling around and playing with a few frameworks, I ended up finding out about the release of Ionic 4 and it&amp;rsquo;s newfound support for Vue.
+Why choose Ionic? Ionic has been around since 2013 and helps you build hybrid mobile apps using web technologies, which simply means that after writing the app once, it will be deployable across Web, Android, IOS and Electron.</description>
+    </item>
     
     <item>
       <title>Why I Chose Vuejs For All My Projects</title>
